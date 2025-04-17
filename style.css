@@ -1,0 +1,23 @@
+body {
+    background-color: #e6f2e6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2b3e2e;
+  }
+  
+  .header {
+    background-color: #d0ead7;
+    border-bottom: 4px solid #8fcf9f;
+  }
+  
+  h1, h2 {
+    color: #2a5d34;
+  }
+  
+  ol li {
+    margin-bottom: 1rem;
+  }
+  
+  ul li {
+    list-style-type: square;
+    margin-left: 20px;
+  }
